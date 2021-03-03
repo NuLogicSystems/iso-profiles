@@ -12,10 +12,13 @@ bison
 >extra brasero
 >extra dconf-editor
 deepin-calendar
+>extra deepin-camera
+deepin-clipboard
 deepin-compressor
 >extra deepin-calculator
 deepin-editor
 deepin-file-manager
+>extra deepin-font-manager
 deepin-gtk-theme
 >extra deepin-draw
 >extra deepin-image-viewer
@@ -24,11 +27,14 @@ deepin-sound-theme
 deepin-shortcut-viewer
 deepin-turbo
 deepin-store
+>extra deepin-album
 >extra deepin-movie
 >extra deepin-music
 >extra deepin-picker
+>extra deepin-reader
 >extra deepin-screen-recorder
 >extra deepin-screenshot
+>extra deepin-screensaver
 >extra deepin-system-monitor
 deepin-wallpapers-temp-fix
 deepin-terminal
@@ -40,10 +46,8 @@ dmidecode
 >extra evince
 >extra evolution
 fakeroot
->extra file-roller
 firefox
 flex
->extra galculator
 >extra gcc
 >extra >multilib gcc-libs-multilib
 >extra >multilib gcc-multilib
@@ -109,7 +113,6 @@ polkit-gnome
 >extra pulseaudio-bluetooth
 pulseaudio-ctl
 pulseaudio-zeroconf
->extra qpdfview
 >extra redshift
 screenfetch
 >basic squashfs-tools
@@ -124,7 +127,6 @@ terminus-font
 >extra ttf-inconsolata
 >extra ttf-indic-otf
 >extra ttf-liberation
->extra xarchiver
 >extra xcursor-breeze
 #xdg-su
 xdg-utils
