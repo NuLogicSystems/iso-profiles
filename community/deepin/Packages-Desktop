@@ -21,6 +21,7 @@ deepin-file-manager
 >extra deepin-font-manager
 deepin-gtk-theme
 >extra deepin-draw
+deepin-icon-theme-manjaro
 >extra deepin-image-viewer
 deepin-kwin
 deepin-sound-theme
@@ -81,6 +82,7 @@ make
 manjaro-alsa
 manjaro-browser-settings
 #manjaro-deepin-settings
+manjaro-deepin-wallpapers
 manjaro-application-utility
 >extra manjaro-documentation-en
 manjaro-hello
