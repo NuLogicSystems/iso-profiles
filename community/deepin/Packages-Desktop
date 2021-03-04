@@ -21,6 +21,7 @@ deepin-file-manager
 >extra deepin-font-manager
 deepin-gtk-theme
 >extra deepin-draw
+deepin-icon-theme-manjaro
 >extra deepin-image-viewer
 deepin-kwin
 deepin-sound-theme
@@ -44,7 +45,6 @@ deepin-turbo
 dmidecode
 >extra downgrade
 >extra evince
->extra evolution
 fakeroot
 firefox
 flex
@@ -81,6 +81,7 @@ make
 manjaro-alsa
 manjaro-browser-settings
 #manjaro-deepin-settings
+manjaro-deepin-wallpapers
 manjaro-application-utility
 >extra manjaro-documentation-en
 manjaro-hello
@@ -101,6 +102,7 @@ networkmanager-pptp
 networkmanager-vpnc
 nss-mdns
 ntp
+onboard
 openresolv
 pamac
 >extra pamac-snap-plugin
@@ -120,6 +122,7 @@ screenfetch
 >extra sushi
 syslog-ng
 terminus-font
+>extra thunderbird
 >extra timeshift
 >extra ttf-bitstream-vera
 >extra ttf-dejavu
