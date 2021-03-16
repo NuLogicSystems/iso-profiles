@@ -80,7 +80,7 @@ m4
 make
 manjaro-alsa
 manjaro-browser-settings
-#manjaro-deepin-settings
+manjaro-deepin-settings
 manjaro-deepin-wallpapers
 manjaro-application-utility
 >extra manjaro-documentation-en
