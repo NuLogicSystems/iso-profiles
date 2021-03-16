@@ -16,6 +16,7 @@ deepin-calendar
 deepin-clipboard
 deepin-compressor
 >extra deepin-calculator
+>extra deepin-dock-plugin-neoweather
 deepin-editor
 deepin-file-manager
 >extra deepin-font-manager
