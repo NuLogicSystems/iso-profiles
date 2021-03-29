@@ -30,6 +30,7 @@ deepin-kwin
 >extra deepin-mail
 >extra deepin-music
 >extra deepin-picker
+deepin-polkit-agent
 >extra deepin-reader
 >extra deepin-screen-recorder
 >extra deepin-screenshot
@@ -48,7 +49,6 @@ deepin-wallpapers-temp-fix
 >extra deluge
 dmidecode
 >extra downgrade
->extra evince
 fakeroot
 firefox
 flex
@@ -111,7 +111,6 @@ pamac
 patch
 >extra patchutils
 pkg-config
-polkit-gnome
 >extra poppler-data
 >extra powertop
 >extra pulseaudio-bluetooth
