@@ -19,6 +19,7 @@ deepin-clipboard
 deepin-compressor
 >extra deepin-draw
 deepin-desktop-schemas-manjaro
+>extra deepin-diskmanager
 deepin-editor
 deepin-file-manager
 >extra deepin-font-manager
@@ -57,8 +58,7 @@ flex
 >extra >multilib gcc-multilib
 >extra gimp
 >extra git
->extra gparted
-grub-theme-manjaro-dev
+grub-theme-manjaro
 >extra gst-libav
 >extra gst-plugins-bad
 >extra gst-plugins-base
@@ -123,7 +123,6 @@ screenfetch
 >extra sushi
 syslog-ng
 terminus-font
->extra thunderbird
 >extra timeshift
 >extra ttf-bitstream-vera
 >extra ttf-dejavu
