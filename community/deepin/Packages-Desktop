@@ -13,6 +13,7 @@ bison
 >extra dconf-editor
 >extra deepin-album
 >extra deepin-calculator
+deepin-desktop-base-manjaro
 deepin-calendar
 >extra deepin-camera
 deepin-clipboard
